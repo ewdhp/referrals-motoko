@@ -1,7 +1,5 @@
 # Referral System on the Internet Computer
 
-This is a referral system implemented in Motoko for the Internet Computer (IC). It allows users to link their accounts through a referral code, track referrals, and calculate referral earnings. The system uses a referral tree structure, allowing users to see their direct and indirect referrals.
-
 ## Overview
 The referral system is designed to manage referral relationships on the Internet Computer using Motoko. Each user can refer others, and both the referrer and the referee can benefit from the system by earning rewards based on the number of referrals and their associated multiplier.
 
